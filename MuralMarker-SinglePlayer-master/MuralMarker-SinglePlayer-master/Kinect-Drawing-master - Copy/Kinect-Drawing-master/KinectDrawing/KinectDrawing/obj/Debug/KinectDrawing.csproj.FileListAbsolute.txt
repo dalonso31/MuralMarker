@@ -1,0 +1,38 @@
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.baml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.baml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\Girls Who Code\Desktop\Kinect-Drawing-master - Copy\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
